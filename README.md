@@ -316,7 +316,7 @@ URL: http://<hostname>/<path>
 
 ## File List
 
-* **gethttp\_debug\_proxy.cpp**
+* **getfile.cpp**
 
   * C++ source with step-by-step debug and optional proxy support.
 * **README.md**
