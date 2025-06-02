@@ -263,7 +263,6 @@ The modified program now provides clear, numbered debug output at each stage of 
 
 # README
 
-````markdown
 # HTTP Downloader with Debug & Proxy Support
 
 ## Overview
